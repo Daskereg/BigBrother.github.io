@@ -1,0 +1,108 @@
+.list{
+color:#DCDCDC;
+text-align:left;
+font-size:20px;
+}
+
+
+.INFO2{
+text-align:left;
+font-size:30px;
+color:#DCDCDC;
+}
+
+.INFO{
+text-align:center;
+color:#DAA520;
+font-size:60px;
+}
+
+
+
+h2{
+font-size:100px;
+padding-top:10px;
+margin-top:0px;
+font-family:Comic Sans MS,cursive;
+}
+
+.menu{
+	background-image:url(tryohmernyi-fon-dlya-saita-v-realnom-vremeni-na-JavaScript-pri-pomoshi-three-js-2.jpg);
+    width: 1905px;
+    height: 100px;
+		
+}
+
+.menu a {
+    color:#b8860b;
+    display: block;
+    float: left;
+    height: 90px;
+	width: 300px;
+    margin: 0 150px;
+    padding: 7px 10px 0;
+    font-weight: bolder;
+    font-size: 70px;	
+}
+a{
+text-decoration: none;
+color:white;
+}
+
+
+.main{
+background:url(thumb2-black-hexagons-4k-3d-art-creative-honeycomb.jpg) no-repeat center center fixed;
+background-size: cover;
+
+
+
+}
+
+.main p {
+
+font-size:30px;
+}
+
+h1 {
+color:white;
+text-align:center;
+}
+
+.image{
+margin-right:50px;
+margin-left:30px;
+margin-top:100px;
+}
+
+.spider{
+font-size:10px;
+color:#C0C0C0;
+margin-left:500px;
+margin-top:50px;
+margin-top:50px;
+}
+
+.info1{
+margin-left:350px;
+margin-top:-60px;
+font-size:20px;
+color:#C0C0C0;
+}
+
+h1{
+text-align:center;
+margin-top:0px;
+font-family:URW Chancery L, cursive;
+color:#F0FFFF;
+}
+
+.назва{
+text-align:center;
+margin-left:50px;
+background-color:#696969;
+margin-right:1330px;
+padding:20px;
+font-family:bold;
+color:white;
+
+}
